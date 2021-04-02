@@ -3,7 +3,7 @@ Deep in his mountain-side meteorology lab, the mad scientist Kelvin has mastered
 
 Recently, Kelvin began publishing his weather forecasts on his website. However there’s a problem: All of his forecasts describe the temperature in Kelvin.
 
-With my knowledge of JavaScript,I converted Kelvin to Celsius, then to Fahrenheit.
+With my knowledge of JavaScript,I converted Kelvin to Celsius, then to Fahrenheit, then to Newton.
 */
 //The forecast today is 293 Kelvin. To start, create a variable named kelvin, and set it equal to 293.
 //The value saved to kelvin will stay constant. Choose the variable type with this in mind.
